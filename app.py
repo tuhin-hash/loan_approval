@@ -7,3 +7,5 @@ if pred[0]==1:
     print("Loan Approved")
 else:
     print("Loan Not Approved")
+
+    
